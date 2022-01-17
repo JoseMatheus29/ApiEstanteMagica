@@ -3,8 +3,8 @@
 <p align = "center ">
     <a href="#Sobre">Sobre</a>
     <a href="#Descrição">Descrição</a>
-    <a href="#Pre-requisitos">Pré-Requisitos</a>
-    <a href="#Paso-Paso">Paso-Paso</a>
+    <a href="#Pré-requisitos">Pré-Requisitos</a>
+    <a href="#Passo-Passo">Passo-Passo</a>
 </p>
 
 # Sobre
@@ -37,7 +37,7 @@
         <li>Um navegador Web</li>
     </ul>
 
-# Paso-Paso
+# Passo-Passo
 <p>Para rodar o projeto é necessario:</p>
     <ul>
         <li>Basta abrir o projeto com seu ambiente de desenvolvimento e executar o arquivo main.py</li>
