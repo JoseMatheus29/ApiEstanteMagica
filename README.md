@@ -45,7 +45,7 @@
         <h1>
             <img alt='Readme' src="./img/Documentação Api.png" >
         </h1>
-        <li>Nesta tela podemos testar todas as rotas de nossa api, Basta selecionar a tela e clicar em "Try it out", como mostrado abaixo</li>
+        <li>Nesta tela podemos testar todas as rotas de nossa api, basta selecionar a rota e clicar em "Try it out", como mostrado abaixo</li>
         <h1>
             <img alt='Readme' src="./img/Utilizar Rota.png" >
         </h1>
