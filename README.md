@@ -11,7 +11,7 @@
 <p id = "Sobre">Proposta de projeto desafio do processo seletivo na empresa Estante Magica.Bem simples porem muito legal de ser desenvolvido, ultilizei o framework FastApi que até então nunca tinha ultilizado. Porem a semelhança do framework com o framework Flask e o fato do mesmo ser bem simples/autodidata e ter uma otima documentação ajudou muito para o desenvolvimento do projeto.Gostei muito de desenvolver o projeto e espero que vocês tambem gostem dele.</p>
 
 # Descrição 
-<p>Desenvolvido ultilizando o framework FastApi em linguagem python consiste em uma Api com 4 rotas, onde o usuario consegue cadastrar os dados de seu livro, os textos textos, as ilustrações do livro, buscar um livro e listar todos os livros cadastrados.</p>
+<p>Desenvolvido ultilizando o framework FastApi em linguagem python consiste em uma Api com 4 rotas, onde o usuario consegue cadastrar os dados de seu livro, os textos do livro, as ilustrações do livro, buscar um livro e listar todos os livros cadastrados.</p>
 
 # Pré-requisitos 
 <p>Para Rodar o projeto é necessario ter instalado em seu computador:</p>
