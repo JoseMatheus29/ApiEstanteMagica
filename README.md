@@ -41,7 +41,7 @@
 <p>Para rodar o projeto é necessario:</p>
     <ul>
         <li>Basta abrir o projeto com seu ambiente de desenvolvimento e executar o arquivo main.py</li>
-        <li>Acesse o Link http://127.0.0.1:8000/docs e então você irá acessar a tela abaixo</li>
+        <li>Acesse o Link http://127.0.0.1:8000/docs e então você irá acessar uma tela semelhante a tela abaixo</li>
         <h1>
             <img alt='Readme' src="./img/Documentação Api.png" >
         </h1>
