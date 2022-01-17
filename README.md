@@ -13,7 +13,7 @@
 # Descrição 
 <p>Desenvolvido ultilizando o framework FastApi em linguagem python consiste em uma Api com 4 rotas, onde o usuario consegue cadastrar seu livro com seus textos, as ilustrações do livro, buscar um livro e listar todos os livros cadastrados.</p>
 
-# Pre-requisitos 
+# Pré-requisitos 
 <p>Para Rodar o projeto é necessario ter instalado em seu computador:</p>
     <ul>
         <li>Python instalado na sua maquina(O porjeto ultiliza versão 3.9.9)</li>
